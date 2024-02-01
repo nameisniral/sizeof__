@@ -2,7 +2,8 @@
 description: A new Flutter package for size responsive.
 version: 0.0.1
 homepage: https://github.com/nameisniral/sizeof__.git
-
+author: NIRAL PANCHAL
+license: MIT
 environment:
   sdk: '>=2.18.2 <3.0.0'
   flutter: ">=1.17.0"
