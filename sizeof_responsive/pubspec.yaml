@@ -1,7 +1,7 @@
  name: sizeof_responsive
 description: A new Flutter package for size responsive.
 version: 0.0.1
-homepage:
+homepage: https://github.com/nameisniral/sizeof__.git
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
